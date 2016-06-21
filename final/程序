@@ -10,7 +10,7 @@ def get_coin():
        print '猜对了！！！'
     else:
         print '猜错了！'
-    play_game()
+
 
     
     
