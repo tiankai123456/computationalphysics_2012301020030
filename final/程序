@@ -1,0 +1,18 @@
+
+import random
+import time
+ 
+def get_coin():
+    return random.randint(0,1)
+ 
+    result = raw_input('玩家猜正反面？[0/1]')
+    if result == random:
+       print '猜对了！！！'
+    else:
+        print '猜错了！'
+    play_game()
+
+    
+    
+    
+    
